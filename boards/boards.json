@@ -108,6 +108,15 @@
 		"filesystem": "default"
 	},
 	{
+		"id": "WEMOS-LOLIN32",
+		"description": "Wemos Lolin32",
+		"manufacturer": "Wemos",
+		"brand": "",
+		"type": "Lolin32",
+		"subtype": "",
+		"filesystem": "default"
+	},
+	{
 		"id": "PYCOM-FIPY",
 		"description": "Pycom FIPY",
 		"manufacturer": "Pycom",
